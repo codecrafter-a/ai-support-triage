@@ -1,0 +1,11 @@
+node_modules/
+data/
+dist/
+web/node_modules/
+web/dist/
+server/node_modules/
+server/package-lock.json
+*.log
+.DS_Store
+
+config.bat
